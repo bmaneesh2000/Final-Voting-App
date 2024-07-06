@@ -1,4 +1,4 @@
-## Final Version 3
+## Final Version 
 
 ### Pre-final intro without admin access
 ![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%201.png)
